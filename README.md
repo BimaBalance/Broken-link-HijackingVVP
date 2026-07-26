@@ -180,26 +180,6 @@ File CSV yang bisa dibuka di Excel / spreadsheet.
 ### 3. Debug Mode
 ![Debug Mode](./docs/debug_mode.png)
 
-### 4. Video Demo
-
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
----
-
-## 📁 Repository Structure
-
-```
-broken-link-hijack/
-├── blh_v12_ultimate.py   # Main script
-├── requirements.txt       # Dependencies
-├── docs/                  # Screenshots
-│   ├── scan_process.png
-│   └── html_report.png
-├── videos/                # Demo videos
-│   └── demo.mp4
-└── README.md
-```
-
 ---
 
 ## ⚠️ Disclaimer
