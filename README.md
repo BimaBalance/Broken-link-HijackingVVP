@@ -31,8 +31,8 @@ Dirancang khusus untuk **bug bounty**, **pentesting**, dan **security research**
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/broken-link-hijack.git
-cd broken-link-hijack
+git clone https://github.com/BimaBalance/Broken-link-HijackingVVP.git
+cd Broken-link-HijackingVVP
 ```
 
 ### 2. Install Dependencies
@@ -67,25 +67,25 @@ go install -v github.com/tomnomnom/waybackurls@latest
 ### Basic Scan (Single Domain)
 
 ```bash
-python blh_v12_ultimate.py -d target.com -o hasil.json
+python broken.py -d target.com -o hasil.json
 ```
 
 ### Scan Multiple Domains
 
 ```bash
-python blh_v12_ultimate.py -l targets.txt -o hasil.json --threads 30
+python broken.py -l targets.txt -o hasil.json --threads 30
 ```
 
 ### Dengan Debug Mode (Verbose)
 
 ```bash
-python blh_v12_ultimate.py -d target.com -o hasil.json --debug
+python broken.py -d target.com -o hasil.json --debug
 ```
 
 ### Dengan Nuclei Integration
 
 ```bash
-python blh_v12_ultimate.py -d target.com -o hasil.json --nuclei
+python broken.py -d target.com -o hasil.json --nuclei
 ```
 
 ---
@@ -172,7 +172,7 @@ File CSV yang bisa dibuka di Excel / spreadsheet.
 ## 📸 Screenshot & Video Demo
 
 ### 1. Proses Scanning
-![Proses Scanning](./docs/scan_process.png)
+![Proses Scanning](./Screenshot_2026-07-26-23-05-09-98_84d3000e3f4017145260f7618db1d683.jpg)
 
 ### 2. HTML Report
 ![HTML Report](./docs/html_report.png)
