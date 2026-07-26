@@ -1,3 +1,5 @@
+![Broken Link Hijacking](file_00000000afa88207a81699fd08fad7e6.png)
+
 # 🔍 Broken Link Hijack v12.0
 
 **Broken Link Hijack (BLH) adalah tools otomatis untuk mendeteksi broken social media links dan potensi hijacking pada domain target.**  
